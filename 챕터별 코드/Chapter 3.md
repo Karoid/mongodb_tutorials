@@ -1,3 +1,5 @@
+[목록으로 돌아가기](../readme.md)
+
 ## 수동 실습 준비 (page 87)
 ```
 $ git clone https://github.com/Karoid/mongodb_tutorials.git
@@ -29,3 +31,5 @@ db.inventory.insertMany([
 {name: {first: "수영", last: "박"}}
 {name: {first: "희영", last: "이"}}
 ```
+
+[목록으로 돌아가기](../readme.md)

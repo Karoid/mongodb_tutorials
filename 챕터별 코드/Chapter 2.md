@@ -1,3 +1,5 @@
+[목록으로 돌아가기](../readme.md)
+
 ## 다수 도큐먼트 생성 (page 51)
 
 ```mongodb
@@ -64,3 +66,5 @@ db.character.insertMany([
   {name: 'z', inventory: ['wood', 'pen'], position:{x:0, y:9}}
 ])
 ```
+
+[목록으로 돌아가기](../readme.md)

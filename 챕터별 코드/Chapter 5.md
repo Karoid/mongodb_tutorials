@@ -1,3 +1,5 @@
+[목록으로 돌아가기](../readme.md)
+
 ## Python-Django
 Django_MongoDB/setting.py
 ```python
@@ -228,3 +230,4 @@ require "sprockets/railtie"
 require "rails/test_unit/railtie"
 ```
 
+[목록으로 돌아가기](../readme.md)

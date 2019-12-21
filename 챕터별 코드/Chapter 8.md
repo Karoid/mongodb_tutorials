@@ -1,3 +1,5 @@
+[목록으로 돌아가기](../readme.md)
+
 ## 샘플 샤드 클러스터 구성하기 (page 370)
 config 서버 디렉토리 구성  
 
@@ -91,3 +93,5 @@ $ mongoimport -d car_accident -c by_road_type --file by_road_type.json
 $ mongoimport -d car_accident -c by_type --file by_type.json
 --host=localhost:20000
 ```
+
+[목록으로 돌아가기](../readme.md)

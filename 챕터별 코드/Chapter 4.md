@@ -1,3 +1,5 @@
+[목록으로 돌아가기](../readme.md)
+
 ## 실습준비 (page 126)
 ```
 $ git clone https://github.com/Karoid/mongodb_tutorials.git
@@ -25,3 +27,5 @@ db.rating.insertMany([
   {_id: 10, rating: 5, user_id: 12}
 ])
 ```
+
+[목록으로 돌아가기](../readme.md)
